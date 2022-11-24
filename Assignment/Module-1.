@@ -1,1 +1,52 @@
 
+                                                         1. * What is Software ?
+
+->  Software is a collection of Data , Instruction , and information .
+->  It is the opposite of hardware, which describes the physical aspects of a computer. 
+
+
+                                                       * What is Software engineering ?
+
+-> Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+
+
+                                                      2.* Types of software 
+
+-> There is mainly three types of software 
+  . Application Software 
+  . Programming software 
+  . System software 
+
+---> Appliation software     
+. application software is a computer 
+software package that performs a specific function for a user, or in some 
+cases, for another application
+
+
+--> programming software
+. Programming software and programming tools enable developers to 
+develop, write, test and debug other software programs is known as programming software
+
+--> System Software
+. To run a computer's application  programs and hardware system software are disigned .
+ 
+                                                   3. What is SDLC And Explain each prases 
+
+--> SDLC stands for Software Devlopment Life Cycle 
+--> SDLC refers to a methodology with clearly defined processes for creating high-quality software.
+
+--> Phases of SDLC  .
+       1. Planning.
+       2. Analysis.
+       3. Designing.
+       4. Implementation.
+       5. Testing.
+       6. Maintenance.
+
+
+
+
+
+
+
+ 	
