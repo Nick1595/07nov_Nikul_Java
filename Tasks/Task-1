@@ -26,5 +26,14 @@
                        many networks which allow a user with a computer or similar device to interact with other computers
                        
                        
+                       
+                       
+                       
+                                                                Tcp vs Ip
+                                                                
+                                Tcp and ip are two separate computer network protocol ip is the part obtain the address to which 
+                                data is send .And therefore Tcp is responsible for data delevery once that ip address has been found 
+                       
+                       
 
   
