@@ -42,7 +42,28 @@ develop, write, test and debug other software programs is known as programming s
        4. Implementation.
        5. Testing.
        6. Maintenance.
+       
+  --->> planning       -  1. Identification of the system for development.
+                          2. Feasibility assessment.
+                          3.Creation of project plan.
+       
+       
+  --->> Amalysis       -  1. Gathering business requirement.
+                          2. Creating process diagrams.
+                          3. Performing a detailed analysis.
+                          
+  --->> Designing      -  1. Designing the IT infrastructure.
+                          2. Designing the system model.
 
+  --->> Implementation -  1. Development of IT infrastructure.
+                          2. Development of database and code.
+                          
+  --->> Testing        -  1. Writing test cases.
+                          2. Execution of test cases.                   
+                          
+  --->> Maintenance    -  1. Support the system users
+                          2. System maintenance
+                          3. System changes and adjustment                    
 
                                                      4. What is DFD
                                                      
