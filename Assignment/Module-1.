@@ -1,5 +1,5 @@
 
-                                                         1. * What is Software ?
+                                                        Q-1. * What is Software ?
 
 ->  Software is a collection of Data , Instruction , and information .
 ->  It is the opposite of hardware, which describes the physical aspects of a computer. 
@@ -10,7 +10,7 @@
 -> Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
 
 
-                                                      2.* Types of software 
+                                                      Q-2.* Types of software 
 
 -> There is mainly three types of software 
   . Application Software 
@@ -30,7 +30,7 @@ develop, write, test and debug other software programs is known as programming s
 --> System Software
 . To run a computer's application  programs and hardware system software are disigned .
  
-                                                   3. What is SDLC And Explain each prases 
+                                                   Q-3. What is SDLC And Explain each prases 
 
 --> SDLC stands for Software Devlopment Life Cycle 
 --> SDLC refers to a methodology with clearly defined processes for creating high-quality software.
@@ -65,7 +65,7 @@ develop, write, test and debug other software programs is known as programming s
                           2. System maintenance
                           3. System changes and adjustment                    
 
-                                                     4. What is DFD
+                                                     Q-4. What is DFD
                                                      
   --> DFD means Data flow diagram 
   --.A data flow diagram maps out the flow of information for any process or system. It uses 
