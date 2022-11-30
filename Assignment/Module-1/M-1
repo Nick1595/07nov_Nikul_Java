@@ -67,7 +67,12 @@ develop, write, test and debug other software programs is known as programming s
 
                                                      Q-4. What is DFD
                                                      
-  --> DFD means Data flow diagram 
-  --.A data flow diagram maps out the flow of information for any process or system. It uses 
+--> DFD means Data flow diagram 
+-->A data flow diagram maps out the flow of information for any process or system. It uses 
   defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, 
   outputs, storage points and the routes between each destination. 
+  
+  
+                                                    Q-5 What is flow chat 
+                                                    
+ --> A flowchart is a diagram that depicts a process, system or computer algorithm. 
