@@ -1,4 +1,4 @@
-wap to display static name and dynamic rollno/id
+// wap to display static name and dynamic rollno/id 
 
 
 #include<stdio.h>
