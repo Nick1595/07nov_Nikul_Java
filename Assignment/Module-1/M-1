@@ -7,7 +7,8 @@
 
                                                        * What is Software engineering ?
 
--> Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+-> Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application
+   which will satisfy those requirements.
 
 
                                                       Q-2.* Types of software 
@@ -76,3 +77,10 @@ develop, write, test and debug other software programs is known as programming s
                                                     Q-5 What is flow chat 
                                                     
  --> A flowchart is a diagram that depicts a process, system or computer algorithm. 
+ 
+                                                       Q-6 What id DFD ( Data Flow Diagram)
+                                                       
+ --> A data flow diagram is a visual representation of the flow of information for a process or a system. 
+ 
+ --> It is a mirror image of the whole system or a plant. The data flow diagram helps the engineers and plant workers
+ to plan the work efficiently by picturizing the entire system.                                                      
