@@ -45,6 +45,20 @@ void main ()
                                                         Q - 3	
 							
 							
-							
+/* wap to find area of circle */
+#include<stdio.h>
+
+void main()
+{
+	const pi = 3.14;
+	int r;
+	float area;
+	
+	printf("enter the value of radius : ");
+	scanf("%d",&r);
+	
+	area = pi *r*r;
+	printf("\n area of circle is : %f",area);
+}	
 							
 							
