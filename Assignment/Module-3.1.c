@@ -60,5 +60,24 @@ void main()
 	area = pi *r*r;
 	printf("\n area of circle is : %f",area);
 }	
-							
+
+
+/* wap to find area of rectengle */
+#include<stdio.h>
+
+void main()
+{
+	int l;
+	int b;
+	float area;
+	
+	printf("enter the value of length : ");
+	scanf("%d",&l);
+	
+	printf("enter the value of width : ");
+	scanf("%d",&b);
+	
+	area = l*b;
+	printf("\n area of rectengle is : %f",area);
+}
 							
