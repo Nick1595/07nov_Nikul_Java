@@ -80,4 +80,23 @@ void main()
 	area = l*b;
 	printf("\n area of rectengle is : %f",area);
 }
-							
+
+
+/* wap to find area of tringle */
+#include<stdio.h>
+
+void main()
+{
+	int b;
+	int h;
+	float area;
+	
+	printf("enter the value of base : ");
+	scanf("%d",&b);
+	
+	printf("enter the value of height : ");
+	scanf("%d",&h);
+	
+	area = 0.5*b*h;
+	printf("\n area of tringle is : %f",area);
+}
