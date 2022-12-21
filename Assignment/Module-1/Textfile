@@ -77,6 +77,11 @@ develop, write, test and debug other software programs is known as programming s
                                                     Q-5 What is flow chat 
                                                     
  --> A flowchart is a diagram that depicts a process, system or computer algorithm. 
+ It is a pictorial representation of an algorithm that increases the readability of the program.
+Complex programs can be drawn in a simple way using a flowchart.
+It helps team members get an insight into the process and use this knowledge to collect data, detect problems, develop software, etc.
+A flowchart is a basic step for designing a new process or add extra features.
+Communication with other people becomes easy by drawing flowcharts and sharing them.
  
                                                        Q-6 What id DFD ( Data Flow Diagram)
                                                        
