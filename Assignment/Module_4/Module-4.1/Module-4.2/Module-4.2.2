@@ -1,1 +1,24 @@
 
+#include<iostream>
+using namespace std;
+
+template <class S>
+S swap(S a,S b)
+{
+	
+	a=b;
+	b=a+1;
+	
+	cout<<endl<<"Value of a is:"<<a;
+	cout<<endl<<"Value of b is:"<<b;
+	
+	return 0;
+}
+
+int main()
+{
+	int S, v;
+	swap(50,100);
+	
+	return 0;
+}
