@@ -1,0 +1,87 @@
+O-1 What Do You Mean By Database ?
+
+--> A database is a systematic collection of data. They support electronic storage and manipulation of data. Databases make data management easy.
+
+-->THere are some popular types of databases.
+Distributed databases:
+Relational databases:
+Object-oriented databases:
+Centralized database:
+Open-source databases:
+Cloud databases:
+Data warehouses:
+NoSQL databases:
+
+-->database example: An online telephone directory uses a
+ database to store data of people, phone numbers, and other contact details. 
+
+ O-2 What do you mean by Normalization?
+
+ -->  Normalization is the process of organizing the data in the database.
+ --> Normalization is used to minimize the redundancy from a relation or set of relations. It is also used to    eliminate undesirable characteristics like Insertion, Update, and Deletion Anomalies.
+ --> Normalization divides the larger table into smaller and links them using relationships.
+ --> The normal form is used to reduce redundancy from the database table.
+
+
+O-3 Different between DBMS and RDBMS .
+
+-->No.
+Dbms ___ Rdbms
+1)	<> DBMS applications store data as file.	
+    -- RDBMS applications store data in a tabular form.
+2)	<> In DBMS, data is generally stored in either a hierarchical form or a navigational form.
+   -- In RDBMS, the tables have an identifier called primary key and the data values are stored in the form of   tables.
+3)	<>Normalization is not present in DBMS.
+  -- Normalization is present in RDBMS.
+4)	<> DBMS does not apply any security with regards to data manipulation.
+   --	RDBMS defines the integrity constraint for the purpose of ACID (Atomocity, Consistency, Isolation and Durability) property.
+5)	<> DBMS uses file system to store data, so there will be no relation between the tables.	
+    -- In RDBMS, data values are stored in the form of tables, so a relationship between these data values will be stored in the form of a table as well.
+6) <>	DBMS has to provide some uniform methods to access the stored information.
+  --	RDBMS system supports a tabular structure of the data and a relationship between them to access the stored  information.
+7)	<> DBMS does not support distributed database.	
+    -- RDBMS supports distributed database.
+
+ Q-4 What is MF Cod Rule of RDBMS Systems?
+
+-->E.F Codd was a Computer Scientist who invented the Relational model for Database management. Based on relational model, the Relational database was created. Codd proposed 13 rules popularly known as Codd's 12 rules to test DBMS's concept against his relational model. Codd's rule actualy define what quality a DBMS requires in order to become a Relational Database Management System(RDBMS). Till now, there is hardly any commercial product that follows all the 13 Codd's rules.    
+
+
+Q-5  What do you understand By Data Redundancy
+
+--> Data redundancy refers to the practice of keeping data in two or more places within a database or data storage system. Data redundancy ensures an organization can provide continued operations or services in the event something happens to its data -- for example, in the case of data corruption or data loss. The concept applies to areas such as databases, computer memory and file storage systems.
+
+Q-6  What is DDL Interpreter? 
+
+--> DDL Interpreter DDL expands to Data Definition Language. DDL Interpreter as the name suggests interprets the DDL statements such as schema definition statements like create, delete, etc. The result of this interpretation is a set of a table that contains the meta-data which is stored in the data dictionary. 
+
+Q-7 What is DML Compiler in SQL? 
+
+-->  DML Compiler: It processes the DML statements into low level instruction (machine language), so that they can be executed. 
+DDL Interpreter: It processes the DDL statements into a set of table containing meta data (data about data).
+
+Q-8  What is SQL Key Constraints writing an Example of SQL Key Constraints 
+
+--> SQL constraints are used to specify rules for the data in a table.
+
+Constraints are used to limit the type of data that can go into a table. This ensures the accuracy and reliability of the data in the table. If there is any violation between the constraint and the data action, the action is aborted.
+
+-- for example :-
+  NOT NULL - Ensures that a column cannot have a NULL value
+  UNIQUE - Ensures that all values in a column are different
+  PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+  FOREIGN KEY - Prevents actions that would destroy links between tables
+  CHECK - Ensures that the values in a column satisfies a specific condition
+  DEFAULT - Sets a default value for a column if no value is specified
+
+Q-9 What is save Point? How to create a save Point write a Query? 
+
+--> Savepoint is a command in SQL that is used with the rollback command.
+It is a command in Transaction Control Language that is used to mark the transaction in a table.
+Consider you are making a very long table, and you want to roll back only to a certain position in a table then; this can be achieved using the savepoint.
+If you made a transaction in a table, you could mark the transaction as a certain name, and later on, if you want to roll back to that point, you can do it easily by using the transaction's name.
+Savepoint is helpful when we want to roll back only a small part of a table and not the whole table. In simple words, we can say savepoint is a bookmark in SQL.
+
+Q-10 What is trigger and how to create a Trigger in SQL?
+
+--> Creates a DML, DDL, or logon trigger. A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server. DML triggers run when a user tries to modify data through a data manipulation language (DML) event. DML events are INSERT, UPDATE, or DELETE statements on a table or view.
